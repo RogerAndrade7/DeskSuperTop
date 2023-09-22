@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+
+ }
+
+ h1{
+     color: aqua
+     
+ }
+
+ #regula{
+     margin-top: 20px;
+     margin-right: 15px;
+     margin-left: 15px;
+ }
+
+ #desc{
+    font-family: arial black;
+    color: blue;
+    margin-left:18px;
+}
+
+ .footer{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;  
+    padding: 20px;
+}
+
+.copyright{
+    color: #C7C7C7;
+}
+
+.copyright a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.information a{
+    text-decoration: none;
+    color: #C7C7C7;
+}
+
+.container-footer{
+    width: 100%;  
+    background: #101010;
+}
+
+
+
+#Botao{
+     margin-top: 20px;
+     margin-block-end: 15px;
+     margin-left: 115px;
+     background-color: #32CD32;
+     
+ }
+
+ span{
+     font-family: arial black;
+     color: #fff;
+ }
+
+ 

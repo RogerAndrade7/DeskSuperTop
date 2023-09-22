@@ -1,0 +1,35 @@
+
+body {
+	font-family: arial;
+	background-color: #c1cdc1;
+}
+
+h1 {
+	font-family: arial black;
+	color: red;
+	text-align: center;
+}
+
+h2 {
+	color: orange;
+}
+
+.montain {
+	color: brown;
+}
+
+.speed {
+	color: green;
+}
+
+.urbana {
+	color: gray;
+}
+
+p {
+	font-family: arial;	
+}
+
+ul {
+	font-family: arial;
+}
